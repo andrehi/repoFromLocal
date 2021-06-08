@@ -6,6 +6,3 @@ wt
 wt
 asdasdasdasd
 asd
-asd
-asd
-asd
